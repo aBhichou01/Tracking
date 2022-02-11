@@ -1,0 +1,5 @@
+git clone https://github.com/thewhiteh4t/seeker
+cd seeker/
+ls
+sudo ./install.sh
+python3 seeker.py or python3 seeker.py -t manual //use any one of two, whichever works in your system 
