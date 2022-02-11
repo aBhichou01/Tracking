@@ -1,0 +1,7 @@
+//download ngrok through https://ngrok.com/download by making your account
+//can download on terminal: wget (link)
+
+unzip /path/to/ngrok.zip
+./ngrok authtoken (your authtoken)
+./ngrok http (port number) //port number you will get once you run your seeker script
+
